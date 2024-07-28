@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++ (forever)
 - 💞️ I’m looking to collaborate on VK or TG
 - 📫 How to reach me TG
-- 😄 Pronouns: He, him
 - ⚡ Fun fact: Java was my first programming language
 
 <!---
